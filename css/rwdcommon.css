@@ -42,7 +42,7 @@
 
 @media screen and (max-width : 768px ) {
     
-    #header .sns { float:left; display: none;}
+    #header .sns { float:none; display: none;}
     #header .row {position: relative;}
     #header .open, 
     #header .close { display: none;
